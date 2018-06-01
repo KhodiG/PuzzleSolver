@@ -1,28 +1,5 @@
 package a04_Puzzle;
 
-/******************************************************************************
- *  Compilation:  javac SolverVisualizer.java
- *  Execution:    java SolverVisualizer filename
- *  Dependencies: Solver.java Board.java
- *
- *  This program takes the name of a file as a command-line argument.
- *  From that file, it
- *
- *    - Uses your Solver.java and Board.java programs to solve the
- *      sliding block puzzle defined by the input file.
- *    - Renders a graphical animation of your program's output.
- *    - Uses the manhattan() method in Board to display the
- *      Manhattan distance at each stage of the solution. 
- *
- *  by Martin Round AND CODY GIBBY. September 2014 Coursera Algorithms, Part I course
- *
- * 
- *  I found this in the checklist. It didn't work originally because the API seems to
- *  have been updated since this was written. I don't fully understand how exactly it
- *  works... but through trial and error, eventually I got it. -Cody Gibby
- *
- ******************************************************************************/
-
 import java.awt.Color;
 import java.awt.Font;
 

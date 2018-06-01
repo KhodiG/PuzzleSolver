@@ -100,11 +100,11 @@ public class Solver {
 	}
 
 	// TESTING
-	public static void main(String[] args) {
-		// Loops through and solves puzzles 11-50 from the ftp directory
-		// for (int i = 11; i <= 50; i++) {
-		// solve("src/a04_Puzzle.Puzzles/puzzle" + i + ".txt");
-		// }
-		solve("src/puzzle11.txt");
-	}
+//	public static void main(String[] args) {
+//		// Loops through and solves puzzles 11-50 from the ftp directory
+//		// for (int i = 11; i <= 50; i++) {
+//		// solve("src/a04_Puzzle.Puzzles/puzzle" + i + ".txt");
+//		// }
+//		solve("src/puzzle11.txt");
+//	}
 }
